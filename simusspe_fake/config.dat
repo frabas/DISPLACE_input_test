@@ -1,0 +1,12 @@
+nbpops
+3
+implicit_stocks
+0 1 2
+calib the other landings per stock
+1.0 1.0 1.0
+calib weight-at-szgroup per stock
+1.0 1.0 1.0
+calib the cpue multiplier per stock
+1.0 1.0 1.0
+
+
