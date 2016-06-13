@@ -1,7 +1,7 @@
 # dyn_alloc_sce
-baseline
+baseline 
 # dyn_pop_sce
-baseline
+baseline 
 # biolsce
 1
 # Frequency to apply growth (0:daily; 1:weekly; 2:monthly; 3:quarterly; 4:semester)
@@ -17,13 +17,13 @@ baseline
 # a_port
 2476
 # grid res km
-2.5
-# individual vessel quotas
+10
+# is_individual_vessel_quotas
 0
 #  check all stocks before going fishing (otherwise, explicit pops only)
 0
 # Go Fishing DTree
-
+GoFishing_test.dt.csv
 # Choose Ground DTree
 
 # Start Fishing DTree
@@ -35,7 +35,4 @@ baseline
 # Change Port DTree
 
 # Use Dtrees
-0
-
-
-
+1
