@@ -4,6 +4,8 @@ baseline
 baseline 
 # biolsce
 1
+# fleetsce
+1
 # Frequency to apply growth (0:daily; 1:weekly; 2:monthly; 3:quarterly; 4:semester)
 4
 # Frequency to redispatch the pop (0:daily; 1:weekly; 2:monthly; 3:quarterly; 4:semester)
@@ -36,3 +38,15 @@ GoFishing_test.dt.csv
 
 # Use Dtrees
 1
+#tariff_pop
+
+#req_update_tariff_code
+
+#arbitrary_breaks_for_tariff
+
+#total_amount_credited
+
+#tariff_annual_
+
+# banned metiers
+
