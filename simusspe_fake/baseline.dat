@@ -11,7 +11,7 @@ baseline
 # Frequency to redispatch the pop (0:daily; 1:weekly; 2:monthly; 3:quarterly; 4:semester)
 3
 # a_graph
-2
+0
 # nrow_coord
 3374
 # nrow_graph
